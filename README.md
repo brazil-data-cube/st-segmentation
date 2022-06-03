@@ -4,7 +4,7 @@
 This repository is a `Research Compendium` (RC), with all the materials
 (codes, data, and computational environment) required for the
 reproduction and evaluation of the results presented in the article,
-Follow the link to access the notebook on google colab [Google Colab Link](https://colab.research.google.com/drive/1_jxcU8ePtrFsNDkqO6rJdxOP5L-zkNkD?usp=sharing):
+Follow the link to access the notebook on google colab [Google Colab Link](https://colab.research.google.com/drive/1_jxcU8ePtrFsNDkqO6rJdxOP5L-zkNkD?usp=sharing) and the data separately [Google Drive Link](https://drive.google.com/file/d/1DG9nW8tM-uKV8pthre36nxdqBWRE0_MV/view?usp=sharing):
 
 
 > Silva *et al.* (2022).
