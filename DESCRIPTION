@@ -1,0 +1,10 @@
+Package: ST_Segmentation
+Type: Package
+Title: Spatiotemporal segmentation of satellite image time series materials
+Version: 0.1.0
+Author: Baggio Luiz de Castro e Silva
+Maintainer: Baggio Luiz de Castro e Silva <baggio.silva@inpe.br>
+Description: This repository contains all materials, including codes, data, and computational environment, required for the reproduction and evaluation of the results presented in the article by Silva et al (2022) <DOI: 10.5194/isprs-annals-V-3-2022-255-2022> 
+License: MIT
+Encoding: UTF-8
+LazyData: true
